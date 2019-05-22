@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,61 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PhD Candidate"
+  company = "Texas A&M Institute of Technology-Infused Learning"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  date_start = "2015-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  """
+
+#[[experience]]
+#  title = "PhD Student"
+#  company = "Texas A&M Embodied Interaction Lab"
+#  company_url = ""
+#  date_start = "2015-08-01"
+#  date_end = ""
+#  description = """
+#  """
+
+[[experience]]
+  title = "Bachelor of Science in Engineering"
+  company = "University of Michigan"
+  company_url = ""
+  location = "Ann Arbor"
+  date_start = "2011-08-01"
+  date_end = "2015-04-01"
+  description = """
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Intern"
+  company = "John Deere Headquarters"
+  location = "Moline, IL"
+  date_start = "2014-04-01"
+  date_end = "2014-08-01"
+  description = """
+  Prototyped an embedded and distributed security and surveillance system for fleets of large farm equipment
+  """
+
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "CHAI Lab under Emily Mower-Provost"
+  location = "University of Michigan"
+  date_start = "2013-04-01"
+  date_end = "2015-04-01"
+  description = """
+  Created Classifiers with the IEMOCAP dataset to determine speaker’s Emotion in real-time with audio-video (webcam) data of speaker, with Desktop and online applications
+  """
+
+[[experience]]
+  title = "Computer Science Intern"
+  company = "U.S. Department of Defense"
+  location = ""
+  date_start = "2017-04-01"
+  date_end = "2018-08-01"
+  description = """
+  Intern for the summers 2017 and 2018, working on various challenges in machine learning and data visualization
+  """
 
 +++

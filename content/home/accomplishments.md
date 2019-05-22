@@ -19,33 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "UM::Autonomy"
+  organization_url = "https://umautonomy.com"
+  title = "Electrical Team Leader (2014)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  date_start = "2012-01-01"
+  date_end = "2015-04-01"
+  description = "Multidisciplinary Autonomous Boat Design Team which consistently placed in the top-5 in the annual [RobotBoat Competition](https://www.auvsifoundation.org/competition/roboboat)"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  organization = "University of Michigan IEEE-ACM Student Chapter"
+  organization_url = "https://twitter.com/umichieee"
+  title = "Departmental Relations Officer"
+  date_start = "2012-01-01"
+  date_end = "2015-04-01"
+  description = "Organized events with Faculty in the Electrical Engineering and Computer Science department"
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+    organization = "Boy Scouts of America"
+    title = "Eagle Scout and Senior Patrol Leader"
+    date_start = "2010-08-01"
+    date_end = "2011-04-01"
 
 +++
