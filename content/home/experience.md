@@ -67,7 +67,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Computer Science Intern"
-  company = "U.S. Department of Defense"
+  company = ""
   location = ""
   date_start = "2017-04-01"
   date_end = "2018-08-01"
