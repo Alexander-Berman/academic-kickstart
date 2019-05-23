@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Alexander Berman is a Computer Scientist researching the intersection between machine learning, digital fabrication, and human-computer interaction"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "avatar.jpeg"
