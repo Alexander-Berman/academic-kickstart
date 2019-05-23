@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PhD Candidate"
-  company = "Texas A&M Institute of Technology-Infused Learning"
-  company_url = ""
+  company = "TEILab and the Texas A&M Institute of Technology-Infused Learning"
+  company_url = "https://hci.viz.tamu.edu"
   date_start = "2015-08-01"
   date_end = ""
   description = """
