@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD Candidate"
+  title = "PhD Candidate and Research Assistant"
   company = "TEILab and the Texas A&M Institute of Technology-Infused Learning"
   company_url = "https://hci.viz.tamu.edu"
   date_start = "2015-08-01"
@@ -35,15 +35,15 @@ date_format = "Jan 2006"
 #  description = """
 #  """
 
-[[experience]]
-  title = "Bachelor of Science in Engineering"
-  company = "University of Michigan"
-  company_url = ""
-  location = "Ann Arbor"
-  date_start = "2011-08-01"
-  date_end = "2015-04-01"
-  description = """
-  """
+#[[experience]]
+#  title = "Bachelor of Science in Engineering"
+#  company = "University of Michigan"
+#  company_url = ""
+#  location = "Ann Arbor"
+#  date_start = "2011-08-01"
+#  date_end = "2015-04-01"
+#  description = """
+#  """
 
 [[experience]]
   title = "Intern"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Computer Science Intern"
+  title = "Computer Science Summer Intern"
   company = "Department of Defense"
   location = ""
   date_start = "2017-04-01"
