@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/anberman3
@@ -53,9 +53,9 @@ social:
 #  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,5 @@ email: ""
 #- Visitors
 ---
 
-Alex Berman researches how both pedagogical processes and computational tools can support learning similar to what would occur in STEM-related communities of practice. His research leverages existing online tools and resources, in conjunction with machine learning methods, to help support the learning of 3D printing practices.
+
+Alex Berman researches how to broaden participation in digital fabrication by leveraging existing online resources with machine learning technologies to supplement traditional STEM mentorship. He has developed websites like HowDIY and published novel datasets like ThingiPano to support Human-Computer Interaction and Machine Learning research empowering anyone to 3D Print

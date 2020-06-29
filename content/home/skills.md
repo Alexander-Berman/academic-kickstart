@@ -18,18 +18,18 @@ subtitle = ""
   icon = "user-friends"
   icon_pack = "fas"
   name = "HCI"
-  description = "I research how people learn through social interactions, both in person and online. I've designed, conducted, analyzed, and published many human-factor studies investigating how people learn about technology through social interactions in Communities of Practice"
+  description = "I have experience conducting studies and collecting observations to inform the design of various technologies, such as Augmented-Reality CAD and Avatar-Personalization Systems."
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Science"
-  description = "To better understand and serve newcomers to digital fabrication technologies such as 3D printing, I've collected, cleaned, and generated novel datasets analyzed with self-supervised machine learning models to classify and recommend multi-modal online 3D Printing resources"  
+  description = "To better understand and serve newcomers to digital fabrication technologies such as 3D printing, I've collected, cleaned, and generated novel datasets like ThingiPano. I've conducted analysis of these datasets and created self-supervised machine learning models to classify and recommend multi-modal online resources."
   
 [[feature]]
   icon = "cube"
   icon_pack = "fas"
   name = "3D Printing"
-  description = "Alongside researching how to empower individuals to utilize digital fabrication technolgies, I've designed, built, and deployed many curricula-aligned science kits for elementary schools in the [Making the Maker](https://profquek.wixsite.com/website) program, involving 3D printed mechanisms and modular circuitry"
+  description = "Alongside researching how to empower individuals to utilize digital fabrication technologies, I've designed, built, and deployed many curricula-aligned science kits for elementary schools in the [Making the Maker](https://profquek.wixsite.com/website) program, involving 3D printed mechanisms and modular circuitry"
 
 +++
