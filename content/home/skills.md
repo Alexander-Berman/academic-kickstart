@@ -18,17 +18,17 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Science"
-  description = "I have collected, cleaned, and generated datasets (like [ThingiPano](https://github.com/Alexander-Berman/ThingiPano)) to help identify patterns and build novel self-supervised machine learning applications in domains such as cybersecurity and 3D printing."
+  description = "I have collected, cleaned, and distributed datasets (like [ThingiPano](https://github.com/Alexander-Berman/ThingiPano)) to help identify patterns and build novel machine learning applications in domains such as cyber-security and 3D printing. I specialize in self-supervised learning in unstructured multi-modal data, learning patterns without explicit labeling"
 
 [[feature]]
   icon = "user-friends"
   icon_pack = "fas"
   name = "HCI"
-  description = "I have experience collecting observations and conducting studies to inform human-centered design of new domains for technologies like augmented reality and machine learning. One example is [HowDIY](https://HowDIY.xyz), I website I built to introduce anyone to 3D printing, powered by multimodal retrieval, recommendation, and question-answer systems."
+  description = "I have experience collecting observations and conducting studies to inform human-centered design of technologies like augmented reality and machine learning. One example is [HowDIY](https://HowDIY.xyz), a website where AI assistants help introduce anyone to 3D printing, based on published studies and observations of both 3D printing practitioners and printing-newcomers.
 
 [[feature]]
   icon = "cube"
   icon_pack = "fas"
   name = "3D Printing"
-  description = "I've designed, built, and deployed many curricula-aligned science kits for elementary schools in the [Making the Maker](https://profquek.wixsite.com/website) program, involving 3D printed mechanisms and modular circuitry. This has involved many multi-disciplinary collaborations, proximal and online, with many domain-experts and students."
+  description = "I have designed, built, and deployed many curricula-aligned science kits for elementary schools in the [Making the Maker](https://profquek.wixsite.com/website) program, involving creating accessible 3D printed mechanisms and modular circuitry for use by hundreds of K-12 science students. This has involved many multi-disciplinary collaborations, proximal and online, with many domain-experts and students. "
 +++
