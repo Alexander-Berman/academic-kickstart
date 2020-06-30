@@ -24,11 +24,11 @@ subtitle = ""
   icon = "user-friends"
   icon_pack = "fas"
   name = "HCI"
-  description = "I have experience collecting observations and conducting studies to inform human-centered design of technologies like augmented reality and machine learning. One example is [HowDIY](https://HowDIY.xyz), a website where AI assistants help introduce anyone to 3D printing, based on published studies and observations of both 3D printing practitioners and printing-newcomers.
+  description = "I have experience collecting observations and conducting studies to inform human-centered design of technologies like augmented reality and machine learning. One example is [HowDIY](https://HowDIY.xyz), a website where AI assistants help introduce anyone to 3D printing, based on published studies and observations of both 3D printing practitioners and printing-newcomers."
 
 [[feature]]
   icon = "cube"
   icon_pack = "fas"
   name = "3D Printing"
-  description = "I have designed, built, and deployed many curricula-aligned science kits for elementary schools in the [Making the Maker](https://profquek.wixsite.com/website) program, involving creating accessible 3D printed mechanisms and modular circuitry for use by hundreds of K-12 science students. This has involved many multi-disciplinary collaborations, proximal and online, with many domain-experts and students. "
+  description = "I have designed, built, and deployed many curricula-aligned science kits for elementary schools in the [Making the Maker](https://profquek.wixsite.com/website) program, involving creating accessible 3D printed mechanisms and modular circuitry for use by hundreds of K-12 science students. This has involved many multi-disciplinary collaborations, proximal and online, with many domain-experts and students."
 +++
