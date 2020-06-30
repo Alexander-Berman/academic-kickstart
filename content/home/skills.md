@@ -18,7 +18,7 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Science"
-  description = "I have collected, cleaned, and distributed datasets (like [ThingiPano](https://github.com/Alexander-Berman/ThingiPano)) to help identify patterns and build novel machine learning applications in domains such as cyber-security and 3D printing. I specialize in self-supervised learning in unstructured multi-modal data, learning patterns without explicit labeling"
+  description = "I have collected, cleaned, and distributed datasets (like [ThingiPano](https://github.com/Alexander-Berman/ThingiPano)) to help identify patterns and build novel machine learning applications in domains such as cyber-security and 3D printing. Examples include detecting human emotion from webcam videos, classifying over a million 3D files, and detecting cross-modal patterns in darknet marketplace listings."
 
 [[feature]]
   icon = "user-friends"
