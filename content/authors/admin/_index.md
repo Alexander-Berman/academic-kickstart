@@ -68,4 +68,4 @@ email: ""
 ---
 
 
-Alex Berman researches how to broaden participation in digital fabrication by leveraging existing online resources with machine learning technologies to supplement traditional STEM mentorship. He has developed websites like HowDIY and published novel datasets like ThingiPano to support Human-Computer Interaction and Machine Learning research empowering anyone to 3D Print
+Alex Berman researches how to broaden participation in digital fabrication by leveraging existing online resources with machine learning technologies to supplement traditional STEM mentorship. He has developed websites like [HowDIY](https://HowDIY.xyz) with self-published datasets like [ThingiPano](https://github.com/Alexander-Berman/ThingiPano/) to support Human-Computer Interaction and Machine Learning research broadening participation with Do-It-Yourself Digital Fabrication.
