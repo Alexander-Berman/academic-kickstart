@@ -30,5 +30,5 @@ subtitle = ""
   icon = "cube"
   icon_pack = "fas"
   name = "3D Printing"
-  description = "I have designed, built, and deployed many curricula-aligned science kits for elementary schools in the [Making the Maker](https://profquek.wixsite.com/website) program, involving creating accessible 3D printed mechanisms and modular circuitry for use by hundreds of K-12 science students. This has involved many multi-disciplinary collaborations, proximal and online, with many domain-experts and students."
+  description = "I have designed, built, and deployed many curricula-aligned science kits for elementary schools in the [Making the Maker](https://alexander-berman.github.io/project/makingthemaker) program, involving creating accessible 3D printed mechanisms and modular circuitry for use by hundreds of K-12 science students. This has involved many multi-disciplinary collaborations, proximal and online, with many domain-experts and students."
 +++
